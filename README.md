@@ -1,2 +1,5 @@
 # HelloWorld
-...
+
+Hi.
+
+Good day.
